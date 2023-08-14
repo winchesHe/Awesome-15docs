@@ -46,7 +46,7 @@
     "@types/node": "^18.7.18",
     "eslint": "^8.23.1",
     "esno": "^0.16.3",
-    "lint-staged": "^13.1.2",
+    "lint-staged": "^14.0.0",
     "rimraf": "^4.1.2",
     "simple-git-hooks": "^2.8.1",
     "tsup": "^6.6.3",
